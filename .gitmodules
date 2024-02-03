@@ -1,0 +1,3 @@
+[submodule "libs/searx"]
+	path = libs/searx
+	url = https://github.com/searx/searx.git
